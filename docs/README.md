@@ -1,4 +1,4 @@
-# Hello VuePress 1
+# Main index page
 ~~dadadada~~
 
 [Go to student](/student/)
