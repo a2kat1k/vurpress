@@ -1,3 +1,9 @@
+---
+{
+  "title": "Blogging Like a Hacker",
+  "lang": "en-US"
+}
+---
 # Hello VuePress 3
 ---
 __Advertisement :)__
