@@ -1,9 +1,7 @@
 # First project with vuepress 
 
 ## [demo](http://a2kat.crabdance.com:8082)
-
 >I will do my best
-
 ~~Yes, I will~~
 
 >It is about how to put docs into your project
