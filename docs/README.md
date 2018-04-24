@@ -4,7 +4,10 @@ lang: en-US
 ---
 
 # Main index page
-~~dadadada~~
+
+<span v-for="i in 3">{{ i }} </span>
+
+<demo />
 
 ``` js{4}
 export default {
